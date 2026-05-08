@@ -9,7 +9,7 @@ import "../tafsiir.css";
 
 import {
   TafsiirPlayerContext
-} from "../Context/TafsiirPlayerContext";
+} from "../Context/TafsiirPlayerContext"
 
 const TafsiirAudio = () => {
 
