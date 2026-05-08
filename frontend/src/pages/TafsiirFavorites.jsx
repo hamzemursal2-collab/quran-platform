@@ -9,8 +9,7 @@ import "../tafsiir.css";
 
 import {
   TafsiirPlayerContext
-} from "../Context/TafsiirPlayerContext";
-
+} from "../context/TafsiirPlayerContext";
 const TafsiirFavorites = () => {
 
   const API =
